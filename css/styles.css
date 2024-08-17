@@ -319,8 +319,9 @@ font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;}
 
-.wish 
-{background-color: #2e2f42; padding-top: 100px; padding-bottom: 100px; 
+.footer-page {background-color: #2e2f42; padding-top: 100px; padding-bottom: 100px;}
+
+.wish {
 display: flex;
 align-items: baseline;}
 
